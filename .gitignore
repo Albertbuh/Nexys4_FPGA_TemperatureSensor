@@ -29,6 +29,7 @@
 
 # [dir]
 *.cache
+*.runs
 .metadata
 *.data
 *.ipdefs
